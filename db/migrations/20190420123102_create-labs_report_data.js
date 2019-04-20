@@ -2,20 +2,15 @@
 exports.up = async (knex) => {
   return knex.schema.createTable('labs_report_data', (t) => {
     t.increments('id').unsigned().primary();
-    t.integer('lab_id')
-      .references('id')
-      .inTable('labs')
-      .unsigned()
-      .notNullable()
-      .onDelete('CASCADE');
+    t.integer('lab_id').unsigned().notNullable();
     t.string('a').nullable();
     t.string('b').nullable();
     t.string('c').nullable();
     t.string('d').nullable();
     t.string('e').nullable();
     t.string('notes').nullable();
-    t.dateTime('created_at').notNull();
-    t.dateTime('updated_at').nullable();
+    t.dateTime('created_at').defaultTo(knex.fn.now());
+    t.dateTime('updated_at').defaultTo(knex.fn.now());
   });
 };
 
