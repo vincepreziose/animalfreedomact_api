@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# IDE
+.idea
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# generated code
+dist
+lib
+es
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Dependencies
+node_modules
+.npm
+package-lock.json
+
+# ENV
+.env
+
+# VS Code Defaults
+.vscode/
+jsconfig.json
+
+yarn.lock
+package-lock.json
+.prettierrc

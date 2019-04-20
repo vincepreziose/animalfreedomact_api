@@ -1,0 +1,3428 @@
+{
+  "labs": [
+    {
+      "name": "Humboldt State University",
+      "address1": "1 Harpst St.",
+      "address2": "Dean of College of Natural Resources and Science",
+      "city": "Arcata",
+      "certificateNum": "93-R-0413",
+      "mapMarker": {
+        "lat": 40.8744392,
+        "lng": -124.0790979
+      },
+      "reportData": [
+        {
+          "a": "Other Animals",
+          "b": "",
+          "c": "6",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Black Tailed Deer",
+          "b": "",
+          "c": "3",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Red Fox",
+          "b": "",
+          "c": "1",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Grey Fox",
+          "b": "",
+          "c": "2",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Marine Mammal Center",
+      "address1": "2000 Bunker Road",
+      "address2": "",
+      "city": "Sausalito",
+      "certificateNum": "93-R-0475",
+      "mapMarker": {
+        "lat": 37.8352576,
+        "lng": -122.5312463
+      },
+      "reportData": [
+        {
+          "a": "Other Animals",
+          "b": "",
+          "c": "81",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cal Sea Lion",
+          "b": "",
+          "c": "70",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Harbor Seal",
+          "b": "",
+          "c": "5",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Elephant Seal",
+          "b": "",
+          "c": "6",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "BioSurg",
+      "address1": "27956 State Hwy 128",
+      "address2": "",
+      "city": "Winters",
+      "certificateNum": "93-R-0200",
+      "mapMarker": {
+        "lat": 38.5179975,
+        "lng": -121.990071
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "2",
+          "c": "",
+          "d": "16",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "26",
+          "c": "",
+          "d": "85",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "4",
+          "c": "",
+          "d": "106",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Antibodies",
+      "address1": "PO Box 1560",
+      "address2": "",
+      "city": "Davis",
+      "certificateNum": "93-R-0158",
+      "mapMarker": {
+        "lat": 38.5449065,
+        "lng": -121.7405167
+      },
+      "reportData": [
+        {
+          "a": "Rabbit",
+          "b": "0",
+          "c": "95",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "20",
+          "c": "3",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "University of California, Davis",
+      "address1": "1 Shields Ave.",
+      "address2": "",
+      "city": "Davis",
+      "certificateNum": "93-R-0433",
+      "mapMarker": {
+        "lat": 38.5409093,
+        "lng": -121.7462685
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "",
+          "d": "25",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "94",
+          "c": "85",
+          "d": "70",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "",
+          "d": "12",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "",
+          "d": "257",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "NHP",
+          "b": "2293",
+          "c": "1376",
+          "d": "1011",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "",
+          "c": "80",
+          "d": "138",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "35",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "133",
+          "d": "29",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Opossums)",
+          "b": "135",
+          "c": "1",
+          "d": "190",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Peromyscus)",
+          "b": "582",
+          "c": "",
+          "d": "370",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Horses)",
+          "b": "",
+          "c": "23",
+          "d": "86",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Voles)",
+          "b": "",
+          "c": "938",
+          "d": "294",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Gerbils)",
+          "b": "",
+          "c": "",
+          "d": "10",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Goats)",
+          "b": "",
+          "c": "",
+          "d": "8",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Yuba College",
+      "address1": "2088 N. Beale Rd.",
+      "address2": "",
+      "city": "Marysville",
+      "certificateNum": "93-R-0552",
+      "mapMarker": {
+        "lat": 39.1265498,
+        "lng": -121.5396759
+      },
+      "reportData": [
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "64",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Molecular Matrix, Inc.",
+      "address1": "3410 Industrial Blvd",
+      "address2": "Suite 103",
+      "city": "West Sacramento",
+      "certificateNum": "93-R-0564",
+      "mapMarker": {
+        "lat": 38.5740786,
+        "lng": -121.5592102
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "14",
+          "d": "10",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Cosumnes River College",
+      "address1": "8401 Center Parkway",
+      "address2": "",
+      "city": "Sacramento",
+      "certificateNum": "93-R-0080",
+      "mapMarker": {
+        "lat": 38.4535803,
+        "lng": -121.4216495
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "8",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "6",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Hamsters",
+          "b": "",
+          "c": "6",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "5",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Sutter Institute for Medical Research",
+      "address1": "PO Box 160727",
+      "address2": "c/o Research Laboratory",
+      "city": "Sacramento",
+      "certificateNum": "93-R-0003",
+      "mapMarker": {
+        "lat": 38.5815719,
+        "lng": -121.4943996
+      },
+      "reportData": [
+        {
+          "a": "Sheep",
+          "b": "1",
+          "c": "",
+          "d": "16",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "0",
+          "c": "",
+          "d": "72",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Carrington College",
+      "address1": "7801 Folsom Blvd.",
+      "address2": "Suite 210, Admin Offices (ED C.O.A.)",
+      "city": "Sacramento",
+      "certificateNum": "93-R-0516",
+      "mapMarker": {
+        "lat": 38.5517958,
+        "lng": -121.4130693
+      },
+      "reportData": [
+        {
+          "a": "dog, cat, rabbit, other farm animals, other animals (ferret)",
+          "b": "",
+          "c": "1182",
+          "d": "7",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "347",
+          "d": "3",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "90",
+          "d": "5",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "442",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Ferrets)",
+          "b": "",
+          "c": "1",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Animal Blood Bank, Inc.",
+      "address1": "PO Box 1118",
+      "address2": "",
+      "city": "Dixon",
+      "certificateNum": "93-B-0232, 93-R-0536",
+      "mapMarker": {
+        "lat": 38.4454641,
+        "lng": -121.8232958
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "0",
+          "c": "2",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "12",
+          "c": "18",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "60th Medical Group",
+      "address1": "101 Boden Circle",
+      "address2": "",
+      "city": "Travis AFB",
+      "certificateNum": "93-R-0022",
+      "mapMarker": {
+        "lat": 38.2700215,
+        "lng": -121.9637813
+      },
+      "reportData": [
+        {
+          "a": "sheep, pigs",
+          "b": "3, 12",
+          "c": "",
+          "d": "187",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Pacific Biolabs",
+      "address1": "551 Linus Pauling Dr.",
+      "address2": "",
+      "city": "Hercules",
+      "certificateNum": "93-R-0189",
+      "mapMarker": {
+        "lat": 38.0210181,
+        "lng": -122.2793009
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "5",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "3428",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Hamsters",
+          "b": "",
+          "c": "9",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "2085",
+          "d": "107",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "BioAssist, Inc.",
+      "address1": "PO Box 2772",
+      "address2": "",
+      "city": "Vacaville",
+      "certificateNum": "93-R-0508",
+      "mapMarker": {
+        "lat": 38.3565773,
+        "lng": -121.9877444
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "",
+          "d": "10",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "VA Medical Center #662",
+      "address1": "4150 Clement Street",
+      "address2": "",
+      "city": "San Francisco",
+      "certificateNum": "93-V-0005",
+      "mapMarker": {
+        "lat": 37.78200650000001,
+        "lng": -122.5050511
+      },
+      "reportData": [
+        {
+          "a": "sheep",
+          "b": "",
+          "c": "",
+          "d": "4",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "San Francisco State University",
+      "address1": "469 Administration Building",
+      "address2": "",
+      "city": "San Francisco",
+      "certificateNum": "93-R-0426",
+      "mapMarker": {
+        "lat": 37.8171008,
+        "lng": -122.371205
+      },
+      "reportData": [
+        {
+          "a": "Other Animals (Peromyscus Mice)",
+          "b": "1",
+          "c": "",
+          "d": "3",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "University of California, San Francisco",
+      "address1": "UCSF Box 0547",
+      "address2": "",
+      "city": "San Francisco",
+      "certificateNum": "93-R-0440",
+      "mapMarker": {
+        "lat": 37.7626907,
+        "lng": -122.45859
+      },
+      "reportData": [
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "4",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Hamsters",
+          "b": "",
+          "c": "",
+          "d": "11",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "",
+          "d": "325",
+          "e": "914",
+          "notes": ""
+        },
+        {
+          "a": "NHP",
+          "b": "",
+          "c": "",
+          "d": "16",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "",
+          "c": "2",
+          "d": "44",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "48",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Voles)",
+          "b": "",
+          "c": "578",
+          "d": "1083",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Ferrets)",
+          "b": "",
+          "c": "",
+          "d": "30",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Gerbils)",
+          "b": "",
+          "c": "5",
+          "d": "254",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Josman, LLC",
+      "address1": "PO Box 3752",
+      "address2": "",
+      "city": "Napa",
+      "certificateNum": "93-R-0260",
+      "mapMarker": {
+        "lat": 38.2975381,
+        "lng": -122.286865
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "0",
+          "c": "0",
+          "d": "22",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "26",
+          "c": "239",
+          "d": "324",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "0",
+          "c": "13",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "0",
+          "c": "16",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Lawrence Livermore National Laboratory",
+      "address1": "PO Box 808, 1452",
+      "address2": "",
+      "city": "Livermore",
+      "certificateNum": "93-F-0018",
+      "mapMarker": {
+        "lat": 37.7183018,
+        "lng": -121.7258281
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "142",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Genentech",
+      "address1": "1 DNA Way Mailstop 227",
+      "address2": "",
+      "city": "South San Francisco",
+      "certificateNum": "93-R-0183",
+      "mapMarker": {
+        "lat": 37.6564515,
+        "lng": -122.3776447
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "27",
+          "d": "326",
+          "e": "362",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "13",
+          "d": "151",
+          "e": "16",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Portola Pharmaceuticals, Inc. ",
+      "address1": "270 E. Grand Ave",
+      "address2": "#22",
+      "city": "South San Francisco",
+      "certificateNum": "93-R-0486",
+      "mapMarker": {
+        "lat": 37.6523469,
+        "lng": -122.3955917
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "",
+          "d": "102",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Buck Institute on Aging",
+      "address1": "8001 Redwood Blvd.",
+      "address2": "",
+      "city": "Novato",
+      "certificateNum": "93-R-0570",
+      "mapMarker": {
+        "lat": 38.13175349999999,
+        "lng": -122.564376
+      },
+      "reportData": [
+        {
+          "a": "Other Animals",
+          "b": "3324",
+          "c": "53",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Naked Mole Rat",
+          "b": "3055",
+          "c": "53",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Damaraland Mole Rat",
+          "b": "269",
+          "c": "0",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "NASA",
+      "address1": "Bldg. 239 RM ",
+      "address2": "MS 239-11",
+      "city": "Moffett Field",
+      "certificateNum": "93-F-0006",
+      "mapMarker": {
+        "lat": 37.4145111,
+        "lng": -122.0581688
+      },
+      "reportData": [
+        {
+          "a": "NHP",
+          "b": "32",
+          "c": "",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "0",
+          "c": "",
+          "d": "10",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Hamsters",
+          "b": "0",
+          "c": "",
+          "d": "3",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "0",
+          "c": "",
+          "d": "66",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "0",
+          "c": "",
+          "d": "23",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Gerbils)",
+          "b": "0",
+          "c": "",
+          "d": "62",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Aragen Bioscience, Inc. ",
+      "address1": "380 Woodview Ave.",
+      "address2": "",
+      "city": "Morgan Hill",
+      "certificateNum": "93-R-0504",
+      "mapMarker": {
+        "lat": 37.1501057,
+        "lng": -121.6597697
+      },
+      "reportData": [
+        {
+          "a": "Hamsters",
+          "b": "",
+          "c": "4",
+          "d": "0",
+          "e": "24",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Cotton Rat)",
+          "b": "",
+          "c": "4",
+          "d": "41",
+          "e": "0",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Phoenix Pharmaceuticals",
+      "address1": "330 Beach Road",
+      "address2": "",
+      "city": "Burlingame",
+      "certificateNum": "93-R-0382",
+      "mapMarker": {
+        "lat": 37.588733,
+        "lng": -122.335817
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "30",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "University of California, Santa Cruz",
+      "address1": "1156 High Street",
+      "address2": "MS Office of Research",
+      "city": "Santa Cruz",
+      "certificateNum": "93-R-0439",
+      "mapMarker": {
+        "lat": 36.9776276,
+        "lng": -122.0543109
+      },
+      "reportData": [
+        {
+          "a": "Other Animals (Atlantic Bottle Nosed Dolphin)",
+          "b": "",
+          "c": "3",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Harbor Seal)",
+          "b": "",
+          "c": "1",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (California Sea Lion)",
+          "b": "",
+          "c": "2",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Bearded Seal)",
+          "b": "",
+          "c": "1",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Hawaiian Monk Seal)",
+          "b": "",
+          "c": "1",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Ringed Seal)",
+          "b": "",
+          "c": "1",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Wild Ground Squirrel)",
+          "b": "",
+          "c": "7",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Monterey Bay Aquarium",
+      "address1": "886 Cannery Row",
+      "address2": "",
+      "city": "Monterey",
+      "certificateNum": "93-R-0476",
+      "mapMarker": {
+        "lat": 36.617578,
+        "lng": -121.901173
+      },
+      "reportData": [
+        {
+          "a": "Other Animals (Southern Sea Otter)",
+          "b": "6",
+          "c": "1",
+          "d": "2",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Foothill College",
+      "address1": "12345 El Monte Road",
+      "address2": "",
+      "city": "Los Altos Hills",
+      "certificateNum": "93-R-0136",
+      "mapMarker": {
+        "lat": 37.3620489,
+        "lng": -122.1271421
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "",
+          "d": "34",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "",
+          "d": "16",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "4",
+          "d": "1",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "SRI International",
+      "address1": "333 Ravenwood Ave.",
+      "address2": "",
+      "city": "Menlo Park",
+      "certificateNum": "93-R-0026",
+      "mapMarker": {
+        "lat": 37.4576055,
+        "lng": -122.1766376
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "0",
+          "c": "97",
+          "d": "23",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "1",
+          "c": "23",
+          "d": "1",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Hamsters",
+          "b": "0",
+          "c": "30",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "12",
+          "c": "24",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "NHP",
+          "b": "27",
+          "c": "114",
+          "d": "24",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "0",
+          "c": "6",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Ferrets",
+          "b": "36",
+          "c": "0",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Auris Surgical Robotics, Inc.",
+      "address1": "125 Shoreway Road",
+      "address2": "#D",
+      "city": "San Carlos",
+      "certificateNum": "93-R-0568",
+      "mapMarker": {
+        "lat": 37.5193053,
+        "lng": -122.2608723
+      },
+      "reportData": [
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "5",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "TB Holdings, LLC.",
+      "address1": "1031 Bing Street",
+      "address2": "",
+      "city": "San Carlos",
+      "certificateNum": "93-R-0506",
+      "mapMarker": {
+        "lat": 37.49634940000001,
+        "lng": -122.2442068
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "10",
+          "c": "5",
+          "d": "67",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "0",
+          "c": "0",
+          "d": "36",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "6",
+          "c": "75",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "7",
+          "c": "0",
+          "d": "56",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "14",
+          "c": "0",
+          "d": "3820",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "0",
+          "c": "0",
+          "d": "4",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "VA Medical Center #640",
+      "address1": "3801 Miranda",
+      "address2": "Mail Code 151A",
+      "city": "Palo Alto",
+      "certificateNum": "93-V-0003",
+      "mapMarker": {
+        "lat": 37.4054073,
+        "lng": -122.1400089
+      },
+      "reportData": [
+        {
+          "a": "Hamsters",
+          "b": "",
+          "c": "",
+          "d": "22",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Gilead Sciences, Inc. ",
+      "address1": "7601 Dumbarton Circle",
+      "address2": "",
+      "city": "Fremont",
+      "certificateNum": "93-R-0529",
+      "mapMarker": {
+        "lat": 37.545948,
+        "lng": -122.065653
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "",
+          "d": "56",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Comparative Biosciences, Inc.",
+      "address1": "786 Lucerne Drive",
+      "address2": "",
+      "city": "Sunnyvale",
+      "certificateNum": "93-R-0398",
+      "mapMarker": {
+        "lat": 37.3791684,
+        "lng": -122.0135505
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "6",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "77",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "6",
+          "d": "16",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "0",
+          "d": "18",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Chinchilla)",
+          "b": "",
+          "c": "0",
+          "d": "12",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Intuitive Surgical",
+      "address1": "1020 Kifer Rd.",
+      "address2": "",
+      "city": "Sunnyvale",
+      "certificateNum": "93-R-0401",
+      "mapMarker": {
+        "lat": 37.372939,
+        "lng": -122.003967
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "",
+          "d": "19",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "1813",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Sierra Research Laboratories",
+      "address1": "PO Box 576886",
+      "address2": "",
+      "city": "Modesto",
+      "certificateNum": "93-R-0557",
+      "mapMarker": {
+        "lat": 37.63909719999999,
+        "lng": -120.9968782
+      },
+      "reportData": [
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "6",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Aghio Company",
+      "address1": "1513 River Oaks Dr.",
+      "address2": "",
+      "city": "Modesto",
+      "certificateNum": "93-R-0412, 93-A-0215",
+      "mapMarker": {
+        "lat": 37.7450067,
+        "lng": -121.0201158
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "352",
+          "c": "0",
+          "d": "1743",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "David R. Young, DVM, Ph.D.",
+      "address1": "7243 East Ave.",
+      "address2": "",
+      "city": "Turlock",
+      "certificateNum": "93-R-0427",
+      "mapMarker": {
+        "lat": 37.49366200000001,
+        "lng": -120.765492
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "273",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "211",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "University of California, Santa Barbara",
+      "address1": "",
+      "address2": "Office of Research",
+      "city": "Santa Barbara",
+      "certificateNum": "93-R-0438",
+      "mapMarker": {
+        "lat": 34.4208305,
+        "lng": -119.6981901
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "18",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "3",
+          "d": "35",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals",
+          "b": "",
+          "c": "84",
+          "d": "104",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Gibbon Conservation Center",
+      "address1": "PO Box 800249",
+      "address2": "",
+      "city": "Santa Clarita",
+      "certificateNum": "93-R-0153",
+      "mapMarker": {
+        "lat": 34.3916641,
+        "lng": -118.542586
+      },
+      "reportData": [
+        {
+          "a": "NHP",
+          "b": "",
+          "c": "41",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "California Property Holdings III, LLC.",
+      "address1": "15981 Yarnell St. ",
+      "address2": "#235",
+      "city": "Sylmar",
+      "certificateNum": "93-R-0527",
+      "mapMarker": {
+        "lat": 34.3218109,
+        "lng": -118.4795731
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "14",
+          "c": "",
+          "d": "26",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "0",
+          "c": "",
+          "d": "13",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "1",
+          "c": "",
+          "d": "13",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Pierce College",
+      "address1": "6201 Winnetka Ave. ",
+      "address2": "",
+      "city": "Woodland Hills",
+      "certificateNum": "93-R-0053",
+      "mapMarker": {
+        "lat": 34.1836461,
+        "lng": -118.5801782
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "114",
+          "d": "24",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "20",
+          "d": "12",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "6",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "",
+          "c": "38",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "1155",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Cal Tech ",
+      "address1": "1200 E California Blvd",
+      "address2": "Mail Code 104-31",
+      "city": "Pasadena",
+      "certificateNum": "93-R-0028",
+      "mapMarker": {
+        "lat": 34.1342922,
+        "lng": -118.1248773
+      },
+      "reportData": [
+        {
+          "a": "NHP",
+          "b": "4",
+          "c": "3",
+          "d": "14",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Huntington Medical Research Institute",
+      "address1": "734 Fairmont Ave.",
+      "address2": "",
+      "city": "Pasadena",
+      "certificateNum": "93-R-0036",
+      "mapMarker": {
+        "lat": 34.1331592,
+        "lng": -118.1516282
+      },
+      "reportData": [
+        {
+          "a": "Cats",
+          "b": "13",
+          "c": "",
+          "d": "11",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Amgen",
+      "address1": "1 Amgen Ctr. Drive",
+      "address2": "",
+      "city": "Thousand Oaks",
+      "certificateNum": "93-R-0251",
+      "mapMarker": {
+        "lat": 34.1921026,
+        "lng": -118.9195521
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "14",
+          "c": "0",
+          "d": "65",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "10",
+          "c": "209",
+          "d": "14",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "West LA VA Medical Center # 691",
+      "address1": "11301 Wilshire Blvd. #151",
+      "address2": "Bldg 113, Room 102",
+      "city": "Los Angeles",
+      "certificateNum": "93-V-0006",
+      "mapMarker": {
+        "lat": 34.05263,
+        "lng": -118.4527341
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "22",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "0",
+          "d": "1",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals",
+          "b": "",
+          "c": "8",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "USC",
+      "address1": "3720 S. Flower St. ",
+      "address2": "Room 225",
+      "city": "Los Angeles",
+      "certificateNum": "93-R-0020",
+      "mapMarker": {
+        "lat": 34.0173678,
+        "lng": -118.2810289
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "",
+          "d": "5",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "",
+          "d": "12",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "",
+          "d": "316",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "NHP",
+          "b": "",
+          "c": "",
+          "d": "2",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "95",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (African Spiny Mouse)",
+          "b": "",
+          "c": "",
+          "d": "181",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Cedar Sinai",
+      "address1": "8700 Beverly Blvd.",
+      "address2": "North Tower, Room 2015",
+      "city": "Los Angeles",
+      "certificateNum": "93-R-0032",
+      "mapMarker": {
+        "lat": 34.075232,
+        "lng": -118.3801756
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "2",
+          "c": "",
+          "d": "24",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "",
+          "d": "6",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "1",
+          "d": "",
+          "e": "30",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "153",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Grifols Biologicals, Inc.",
+      "address1": "2410 Lillyvale Ave.",
+      "address2": "",
+      "city": "Los Angeles",
+      "certificateNum": "93-R-0489",
+      "mapMarker": {
+        "lat": 34.0747934,
+        "lng": -118.1637408
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "0",
+          "c": "715",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "339",
+          "c": "0",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "UCLA",
+      "address1": "10833 Le Conte",
+      "address2": "Room 16-222H CHS",
+      "city": "Los Angeles",
+      "certificateNum": "93-R-0435",
+      "mapMarker": {
+        "lat": 34.06428289999999,
+        "lng": -118.4423562
+      },
+      "reportData": [
+        {
+          "a": "Dog",
+          "b": "0",
+          "c": "0",
+          "d": "4",
+          "e": "0",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "0",
+          "c": "0",
+          "d": "4",
+          "e": "7",
+          "notes": ""
+        },
+        {
+          "a": "Hamsters",
+          "b": "0",
+          "c": "53",
+          "d": "0",
+          "e": "54",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "0",
+          "c": "115",
+          "d": "46",
+          "e": "0",
+          "notes": ""
+        },
+        {
+          "a": "NHP",
+          "b": "0",
+          "c": "0",
+          "d": "11",
+          "e": "0",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "7",
+          "c": "0",
+          "d": "378",
+          "e": "0",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "24",
+          "c": "4",
+          "d": "0",
+          "e": "0",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals",
+          "b": "197",
+          "c": "17",
+          "d": "264",
+          "e": "0",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Mount San Antonio College",
+      "address1": "1100 N. Grand Ave.",
+      "address2": "",
+      "city": "Walnut",
+      "certificateNum": "93-R-0117",
+      "mapMarker": {
+        "lat": 34.0482035,
+        "lng": -117.845125
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "0",
+          "d": "93",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "0",
+          "d": "34",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "",
+          "c": "92",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "101",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "60",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Critical Care Research, Inc.",
+      "address1": "10743 Civic Center Dr.",
+      "address2": "",
+      "city": "Rancho Cucamonga",
+      "certificateNum": "93-R-0148",
+      "mapMarker": {
+        "lat": 34.1006496,
+        "lng": -117.5706336
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "20",
+          "c": "",
+          "d": "14",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Amphastar Laboratories, Inc.",
+      "address1": "11570 6th Street",
+      "address2": "",
+      "city": "Rancho Cucamonga",
+      "certificateNum": "93-R-0528",
+      "mapMarker": {
+        "lat": 34.0853075,
+        "lng": -117.5518777
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "2",
+          "c": "0",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "4",
+          "c": "20",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Loma Linda University",
+      "address1": "24887 Taylor Street",
+      "address2": "#201, Research Affairs",
+      "city": "Loma Linda ",
+      "certificateNum": "93-R-0006",
+      "mapMarker": {
+        "lat": 34.0508339,
+        "lng": -117.261687
+      },
+      "reportData": [
+        {
+          "a": "Sheep",
+          "b": "6",
+          "c": "",
+          "d": "143",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Ferrets)",
+          "b": "0",
+          "c": "",
+          "d": "16",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "University of California, Riverside",
+      "address1": "200 University",
+      "address2": "Office of Research Integrity",
+      "city": "Riverside",
+      "certificateNum": "93-R-0436",
+      "mapMarker": {
+        "lat": 33.9756386,
+        "lng": -117.3585508
+      },
+      "reportData": [
+        {
+          "a": "Cats",
+          "b": "0",
+          "c": "19",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Peromyscus)",
+          "b": "390",
+          "c": "130",
+          "d": "200",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Bats)",
+          "b": "10",
+          "c": "23",
+          "d": "22",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles Biomedical Resource Institute",
+      "address1": "1124 W. Carson St. ",
+      "address2": "",
+      "city": "Torrance",
+      "certificateNum": "93-R-0016",
+      "mapMarker": {
+        "lat": 33.8308285,
+        "lng": -118.2951648
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "",
+          "d": "1",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "",
+          "d": "473",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "",
+          "c": "",
+          "d": "22",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "33",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "CSULB",
+      "address1": "",
+      "address2": "Office of Research and Sponsored Programs",
+      "city": "Long Beach ",
+      "certificateNum": "93-R-0418",
+      "mapMarker": {
+        "lat": 33.7700504,
+        "lng": -118.1937395
+      },
+      "reportData": [
+        {
+          "a": "Hamsters",
+          "b": "102",
+          "c": "0",
+          "d": "51",
+          "e": "0",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Western University of Health Sciences",
+      "address1": "309 E. 2nd St. ",
+      "address2": "",
+      "city": "Pomona",
+      "certificateNum": "93-R-0464",
+      "mapMarker": {
+        "lat": 34.0581487,
+        "lng": -117.747508
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "7",
+          "c": "0",
+          "d": "12",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Shrews)",
+          "b": "130",
+          "c": "1507",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "The Dog Lodge, Inc.",
+      "address1": "1551 W. Lambert Road",
+      "address2": "",
+      "city": "La Habra",
+      "certificateNum": "93-R-0371",
+      "mapMarker": {
+        "lat": 33.9248905,
+        "lng": -117.9635088
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "44",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "41",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "CSUSB",
+      "address1": "5500 University Parkway",
+      "address2": "",
+      "city": "San Bernardino",
+      "certificateNum": "93-R-0566",
+      "mapMarker": {
+        "lat": 34.1821748,
+        "lng": -117.3187973
+      },
+      "reportData": [
+        {
+          "a": "Other Animals (Kangaroo Rats)",
+          "b": "",
+          "c": "7",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "21st Century Medicine, Inc.",
+      "address1": "14960 Hilton Dr. ",
+      "address2": "",
+      "city": "Fontana",
+      "certificateNum": "93-R-0430",
+      "mapMarker": {
+        "lat": 34.1093646,
+        "lng": -117.4796028
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "4",
+          "c": "",
+          "d": "148",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "11",
+          "c": "",
+          "d": "30",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Vanguard University",
+      "address1": "55 Fair Drive",
+      "address2": "",
+      "city": "Costa Mesa",
+      "certificateNum": "93-R-0573",
+      "mapMarker": {
+        "lat": 33.6601835,
+        "lng": -117.9021406
+      },
+      "reportData": [
+        {
+          "a": "Other Animals (Rats)",
+          "b": "",
+          "c": "26",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Allergan",
+      "address1": "PO Box 19534",
+      "address2": "",
+      "city": "Irvine",
+      "certificateNum": "93-R-0067",
+      "mapMarker": {
+        "lat": 33.6845673,
+        "lng": -117.8265049
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "0",
+          "c": "33",
+          "d": "31",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "24",
+          "c": "2",
+          "d": "6",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "17",
+          "c": "549",
+          "d": "1193",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "NHP",
+          "b": "15",
+          "c": "96",
+          "d": "64",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Edward Life Sciences, LLC.",
+      "address1": "One Edwards Way",
+      "address2": "Mail Stop 44",
+      "city": "Irvine",
+      "certificateNum": "93-R-0121",
+      "mapMarker": {
+        "lat": 33.6982662,
+        "lng": -117.8515983
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "38",
+          "c": "610",
+          "d": "445",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "0",
+          "c": "74",
+          "d": "135",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "19",
+          "c": "2",
+          "d": "105",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "11",
+          "c": "0",
+          "d": "158",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Stanbridge College",
+      "address1": "2041 Business Ctr Drive",
+      "address2": "#107",
+      "city": "Irvine",
+      "certificateNum": "93-R-0559",
+      "mapMarker": {
+        "lat": 33.6788752,
+        "lng": -117.85765
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "152",
+          "d": "57",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "138",
+          "d": "40",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Cal State University, Fullerton",
+      "address1": "",
+      "address2": "",
+      "city": "Fullerton",
+      "certificateNum": "93-R-0416",
+      "mapMarker": {
+        "lat": 33.8703645,
+        "lng": -117.9242123
+      },
+      "reportData": [
+        {
+          "a": "Deer Mouse",
+          "b": "",
+          "c": "",
+          "d": "1",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Beckman Coulter, Inc.",
+      "address1": "30481 Grand Ave.",
+      "address2": "",
+      "city": "Winchester",
+      "certificateNum": "93-R-0074",
+      "mapMarker": {
+        "lat": 33.7121797,
+        "lng": -117.1299665
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "15",
+          "c": "33",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "99",
+          "c": "430",
+          "d": "3",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Nittobo America, Inc.",
+      "address1": "25549 Adams Ave.",
+      "address2": "",
+      "city": "Murrieta",
+      "certificateNum": "93-B-0231, 93-R-0533",
+      "mapMarker": {
+        "lat": 33.5435595,
+        "lng": -117.1985891
+      },
+      "reportData": [
+        {
+          "a": "Other Farm Animals",
+          "b": "225",
+          "c": "1321",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "BLP BioLab Services ",
+      "address1": "1115 Marine View Dr. ",
+      "address2": "",
+      "city": "Vista",
+      "certificateNum": "93-R-0363",
+      "mapMarker": {
+        "lat": 33.1775066,
+        "lng": -117.2421665
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "70",
+          "c": "630",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "ProSci, Inc. ",
+      "address1": "12170 Flint Place",
+      "address2": "",
+      "city": "Poway",
+      "certificateNum": "93-B-0229, 93-R-0521",
+      "mapMarker": {
+        "lat": 32.9375631,
+        "lng": -117.0405607
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "4",
+          "c": "8",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "167",
+          "c": "756",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "8",
+          "c": "32",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "15",
+          "c": "22",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Scripps Research Institute",
+      "address1": "10550 N. Torrey Pines Road",
+      "address2": "",
+      "city": "La Jolla",
+      "certificateNum": "93-R-0015",
+      "mapMarker": {
+        "lat": 32.8943096,
+        "lng": -117.2422769
+      },
+      "reportData": [
+        {
+          "a": "Hamsters",
+          "b": "0",
+          "c": "12",
+          "d": "0",
+          "e": "0",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "0",
+          "c": "85",
+          "d": "13",
+          "e": "0",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Naked Mole Rat)",
+          "b": "14",
+          "c": "2",
+          "d": "1",
+          "e": "4",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "ICB International, Inc. ",
+      "address1": "505 Coast Blvd.",
+      "address2": "#405",
+      "city": "La Jolla",
+      "certificateNum": "93-R-0547",
+      "mapMarker": {
+        "lat": 32.8434575,
+        "lng": -117.279692
+      },
+      "reportData": [
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "3",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "University of California, San Diego",
+      "address1": "9500 Gilman Dr.",
+      "address2": "IACUC Office, Mail Code 0071",
+      "city": "La Jolla",
+      "certificateNum": "93-R-0437",
+      "mapMarker": {
+        "lat": 32.8799547,
+        "lng": -117.2371192
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "",
+          "d": "19",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "2",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "",
+          "d": "48",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Hamsters",
+          "b": "",
+          "c": "184",
+          "d": "347",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "6",
+          "d": "647",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "NHP",
+          "b": "14",
+          "c": "11",
+          "d": "12",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "283",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "",
+          "d": "7",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Chinchilla)",
+          "b": "",
+          "c": "",
+          "d": "87",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Gerbils)",
+          "b": "",
+          "c": "8",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Jerboas)",
+          "b": "40",
+          "c": "118",
+          "d": "41",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Kevin Yates",
+      "address1": "15630 Rim of the Valley",
+      "address2": "",
+      "city": "Valley Center ",
+      "certificateNum": "93-R-0538, 93-C-1004",
+      "mapMarker": {
+        "lat": 33.281398,
+        "lng": -116.988451
+      },
+      "reportData": [
+        {
+          "a": "Other Animals (Marmosets)",
+          "b": "2",
+          "c": "",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Tamarins)",
+          "b": "15",
+          "c": "",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Abcore, Inc.",
+      "address1": "405 Maple St. ",
+      "address2": "A-106",
+      "city": "Ramona",
+      "certificateNum": "93-B-0248, 93-R-0574",
+      "mapMarker": {
+        "lat": 33.045318,
+        "lng": -116.874198
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "0",
+          "c": "587",
+          "d": "1",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "28",
+          "c": "303",
+          "d": "7",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Robert Sargeant",
+      "address1": "655 Ash St.",
+      "address2": "",
+      "city": "Ramona",
+      "certificateNum": "93-R-0283",
+      "mapMarker": {
+        "lat": 33.059536,
+        "lng": -116.866094
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "42",
+          "c": "1476",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "2",
+          "c": "0",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "22",
+          "c": "20",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Global Medical Devices",
+      "address1": "1215 Cuyamaca St.",
+      "address2": "",
+      "city": "El Cajon",
+      "certificateNum": "93-R-0560",
+      "mapMarker": {
+        "lat": 32.8117152,
+        "lng": -116.9792174
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "2",
+          "c": "",
+          "d": "52",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "1",
+          "c": "",
+          "d": "30",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Scantibodies Lab, Inc.",
+      "address1": "9336 Abraham Way",
+      "address2": "",
+      "city": "Santee",
+      "certificateNum": "93-R-0263",
+      "mapMarker": {
+        "lat": 32.843787,
+        "lng": -116.9644998
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "17",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "",
+          "c": "5",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "213",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "QED Biosciences, Inc.",
+      "address1": "10919 Technology Pl.",
+      "address2": "#C",
+      "city": "San Diego",
+      "certificateNum": "93-R-0389",
+      "mapMarker": {
+        "lat": 33.009357,
+        "lng": -117.0948421
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "4",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "San Diego State University",
+      "address1": "",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-R-0425",
+      "mapMarker": {
+        "lat": 32.715738,
+        "lng": -117.1610838
+      },
+      "reportData": [
+        {
+          "a": "Other Animals",
+          "b": "",
+          "c": "53",
+          "d": "192",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "San Diego Mesa College",
+      "address1": "7250 Mesa College Drive",
+      "address2": "P-300",
+      "city": "San Diego",
+      "certificateNum": "93-R-0124",
+      "mapMarker": {
+        "lat": 32.8047563,
+        "lng": -117.1690578
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "25",
+          "d": "79",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Cats",
+          "b": "",
+          "c": "8",
+          "d": "36",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "2",
+          "d": "4",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "9",
+          "d": "4",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Ferrets)",
+          "b": "",
+          "c": "1",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Alpacas)",
+          "b": "",
+          "c": "2",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Avian)",
+          "b": "",
+          "c": "18",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Halozyme Therapeutics, Inc.",
+      "address1": "11388 Sorrento Valley Road",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-R-0519",
+      "mapMarker": {
+        "lat": 32.9087949,
+        "lng": -117.229305
+      },
+      "reportData": [
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "54",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Allermed Lab",
+      "address1": "7203 Convoy Ct.",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-R-0450",
+      "mapMarker": {
+        "lat": 32.8341884,
+        "lng": -117.1617226
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "4",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Inception Science, Inc.",
+      "address1": "5871 Oberlin Dr.",
+      "address2": "#100",
+      "city": "San Diego",
+      "certificateNum": "93-R-0548",
+      "mapMarker": {
+        "lat": 32.8952168,
+        "lng": -117.1920019
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "",
+          "d": "225",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "BTS Research",
+      "address1": "PO Box 910418",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-R-0532",
+      "mapMarker": {
+        "lat": 32.715738,
+        "lng": -117.1610838
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "",
+          "d": "52",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "",
+          "d": "309",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "",
+          "d": "256",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "NHP",
+          "b": "",
+          "c": "",
+          "d": "216",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "",
+          "c": "",
+          "d": "3",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "27",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Farm Animals",
+          "b": "",
+          "c": "",
+          "d": "4",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "VA Animal Research Facility #664",
+      "address1": "3350 La Jolla Village Dr.",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-V-0004",
+      "mapMarker": {
+        "lat": 32.8751298,
+        "lng": -117.2323881
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "",
+          "d": "39",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Absorption Systems, Inc.",
+      "address1": "7901 Vickers St.",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-R-0444",
+      "mapMarker": {
+        "lat": 32.8269653,
+        "lng": -117.151797
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "0",
+          "d": "160",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "543",
+          "d": "1065",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Sheep",
+          "b": "",
+          "c": "6",
+          "d": "6",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "41",
+          "d": "189",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "JBC Contract Research Services, Inc.",
+      "address1": "4204 Sorrento Valley Blvd.",
+      "address2": "#G",
+      "city": "San Diego",
+      "certificateNum": "93-R-0565",
+      "mapMarker": {
+        "lat": 32.9054233,
+        "lng": -117.215065
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "0",
+          "d": "37",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Hamsters",
+          "b": "",
+          "c": "0",
+          "d": "37",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "46",
+          "d": "8",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Abbiotec, LLC.",
+      "address1": "7985 Dunbrook Rd.",
+      "address2": "Ste. A",
+      "city": "San Diego",
+      "certificateNum": "93-R-0569",
+      "mapMarker": {
+        "lat": 32.8940552,
+        "lng": -117.1496394
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "14",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "California Medical Innovations Institute, Inc.",
+      "address1": "11107 Roselle St. ",
+      "address2": "#211",
+      "city": "San Diego",
+      "certificateNum": "93-R-0563",
+      "mapMarker": {
+        "lat": 32.9063749,
+        "lng": -117.2305912
+      },
+      "reportData": [
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "180",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Nielsen Biosciences, Inc.",
+      "address1": "7229 Convoy Ct.",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-R-0556",
+      "mapMarker": {
+        "lat": 32.834605,
+        "lng": -117.1613202
+      },
+      "reportData": [
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "",
+          "d": "65",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Naval Warfare Systems Center Pacific",
+      "address1": "53560 Hull St.",
+      "address2": "Biosciences Division Code 71500",
+      "city": "San Diego",
+      "certificateNum": "93-F-0005",
+      "mapMarker": {
+        "lat": 32.708658,
+        "lng": -117.2472491
+      },
+      "reportData": [
+        {
+          "a": "Other Animals (Dolphin)",
+          "b": "",
+          "c": "18",
+          "d": "18",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Sea Lion)",
+          "b": "",
+          "c": "18",
+          "d": "1",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Hubbs SeaWorld Research Institute",
+      "address1": "2595 Ingraham St. ",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-R-0163",
+      "mapMarker": {
+        "lat": 32.768982,
+        "lng": -117.2331635
+      },
+      "reportData": [
+        {
+          "a": "Other Animals (California Sea Lion)",
+          "b": "",
+          "c": "165",
+          "d": "36",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (N. Elephant Seal)",
+          "b": "",
+          "c": "830",
+          "d": "35",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Harbor Seal)",
+          "b": "",
+          "c": "33",
+          "d": "0",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Acculab Life Science, LLC.",
+      "address1": "11107 Roselle St. ",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-R-0576",
+      "mapMarker": {
+        "lat": 32.9063749,
+        "lng": -117.2305912
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "",
+          "d": "1",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Guinea Pigs",
+          "b": "",
+          "c": "",
+          "d": "217",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "",
+          "d": "98",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Pigs",
+          "b": "",
+          "c": "",
+          "d": "41",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals (Cotton Rat)",
+          "b": "",
+          "c": "",
+          "d": "25",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Zoological Society of San Diego",
+      "address1": "PO Box 120551",
+      "address2": "",
+      "city": "San Diego",
+      "certificateNum": "93-R-0151",
+      "mapMarker": {
+        "lat": 32.715738,
+        "lng": -117.1610838
+      },
+      "reportData": [
+        {
+          "a": "Dogs",
+          "b": "",
+          "c": "10",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "NHP",
+          "b": "",
+          "c": "16",
+          "d": "",
+          "e": "",
+          "notes": ""
+        },
+        {
+          "a": "Other Animals",
+          "b": "144",
+          "c": "805",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "name": "Cal Poly Pomona",
+      "address1": "3801 W. Temple Ave.",
+      "address2": "",
+      "city": "Pomona",
+      "certificateNum": "93-R-0421",
+      "mapMarker": {
+        "lat": 34.0576744,
+        "lng": -117.8206145
+      },
+      "reportData": [
+        {
+          "a": "Rabbits",
+          "b": "",
+          "c": "53",
+          "d": "",
+          "e": "",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
