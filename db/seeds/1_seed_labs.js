@@ -10,7 +10,7 @@ exports.seed = async (knex) => {
       let labs = [];
       labsObject.labs.forEach((lab, i) => {
         labs.push({
-          id: i+1,
+          // id: i+1,
           name: lab.name,
           address1: lab.address1,
           address2: lab.address2,

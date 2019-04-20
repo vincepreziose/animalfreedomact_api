@@ -2,7 +2,11 @@
 exports.up = async (knex) => {
   return knex.schema.createTable('labs_report_data', (t) => {
     t.increments('id').unsigned().primary();
-    t.integer('lab_id').unsigned().notNullable();
+    t.integer('lab_id').unsigned()
+      .references('id')
+      .inTable('labs')
+      .withKeyName('fk_labs_report_data_labs')
+      .onDelete('CASCADE');
     t.string('a').nullable();
     t.string('b').nullable();
     t.string('c').nullable();
