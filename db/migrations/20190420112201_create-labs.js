@@ -7,8 +7,8 @@ exports.up = async (knex) => {
     t.string('address2').nullable();
     t.string('city').notNull();
     t.string('certificateNum').notNull();
-    t.dateTime('createdAt').notNull();
-    t.dateTime('updatedAt').nullable();
+    t.dateTime('created_at').defaultTo(knex.fn.now());
+    t.dateTime('updated_at').defaultTo(knex.fn.now());
   });
 };
 

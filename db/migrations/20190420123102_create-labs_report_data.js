@@ -2,11 +2,10 @@
 exports.up = async (knex) => {
   return knex.schema.createTable('labs_report_data', (t) => {
     t.increments('id').unsigned().primary();
-    t.integer('lab_id')
+    t.integer('lab_id').unsigned()
       .references('id')
       .inTable('labs')
-      .unsigned()
-      .notNullable()
+      .withKeyName('fk_labs_report_data_labs')
       .onDelete('CASCADE');
     t.string('a').nullable();
     t.string('b').nullable();
@@ -14,8 +13,8 @@ exports.up = async (knex) => {
     t.string('d').nullable();
     t.string('e').nullable();
     t.string('notes').nullable();
-    t.dateTime('created_at').notNull();
-    t.dateTime('updated_at').nullable();
+    t.dateTime('created_at').defaultTo(knex.fn.now());
+    t.dateTime('updated_at').defaultTo(knex.fn.now());
   });
 };
 

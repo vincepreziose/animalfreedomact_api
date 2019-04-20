@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "migrate": "knex migrate:latest --knexfile=./db/knexfile.js"
+    "migrate": "knex migrate:latest --knexfile=./db/knexfile.js",
+    "seed": "knex seed:run --knexfile=./db/knexfile.js"
   },
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
