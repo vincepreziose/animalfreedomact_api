@@ -1,38 +1,43 @@
-const mongoose = require('mongoose');
-const Schema = mongoose.Schema;
+'use strict';
+
 const bcrypt = require('bcrypt-nodejs');
+const { Model } = require('objection');
 
-// Define a model
-const userSchema = new Schema({
-  email: { type: String, unique: true },
-  password: String
-});
+class User extends Model {
+  // Table name is the only required property.
+  static get tableName() {
+    return 'users';
+  }
 
-userSchema.pre('save', function (next) {
-  const user = this;
+  // Optional JSON schema. This is not the database schema! Nothing is generated
+  // based on this. This is only used for validation. Whenever a model instance
+  // is created it is checked against this schema. http://json-schema.org/.
+  static get jsonSchema() {
+    return {
+      type: 'object',
+      required: ['email'],
 
-  bcrypt.genSalt(10, (err, salt) => {
-    if (err) return next(err);
+      properties: {
+        id: { type: 'integer' },
+        email: { type: 'string', minLength: 1, maxLength: 255 },
+        password: { type: 'string', minLength: 1, maxLength: 255 }
+      }
+    };
+  }
 
-    bcrypt.hash(user.password, salt, null, (err, hash) => {
-      if (err) return next(err);
+  static async findOneByEmail(email) {
+    const user = await this.query()
+      .findOne('email', email);
 
-      user.password = hash;
-      next();
+    return user;
+  }
+
+  static async comparePassword(candidatePassword, hash, callback) {
+    bcrypt.compare(candidatePassword, hash, (err, isMatch) => {
+      if (err) return callback(err);
+      callback(null, isMatch);
     });
-  });
-});
+  }
+}
 
-userSchema.methods.comparePassword = function (candidatePassword, callback) {
-  bcrypt.compare(candidatePassword, this.password, (err, isMatch) => {
-    if (err) return callback(err);
-
-    callback(null, isMatch);
-  })
-};
-
-// Create the model class
-const ModelClass = mongoose.model('user', userSchema);
-
-// Export the model
-module.exports =ModelClass;
+module.exports = User;
