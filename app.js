@@ -7,7 +7,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const app = express();
 const routes = require('./routes');
-const dbInit = require('./config/db')();
+const dbInit = require('./db')();
 
 app.use(logger('dev'));
 app.use(cors());

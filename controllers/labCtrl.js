@@ -1,10 +1,11 @@
 const express = require('express');
-const router = express.Router();
+const Lab = require('../models/lab');
 
 const getLabs = async (req, res, next) => {
   try {
-    // const results = await Lab.getLabs();
-    res.status(200).json({message: 'Yo'});
+    const labs = await Lab.query();
+
+    res.status(200).json({labs: labs});
   } catch (e) {
     console.log(e.message);
   }
