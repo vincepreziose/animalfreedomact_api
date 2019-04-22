@@ -56,7 +56,12 @@ const signup = async (req, res, next) => {
 // Private functions
 const tokenForUser = (user) => {
   const timestamp = new Date().getTime();
-  return jwt.encode({ sub: user.id, iat: timestamp }, process.env.JWT_SECRET);
+  return jwt.encode({
+    iss: process.env.JWT_ISS,
+    sub: user.id,
+    email: user.email,
+    iat: timestamp
+  }, process.env.JWT_SECRET);
 }
 
 module.exports = {

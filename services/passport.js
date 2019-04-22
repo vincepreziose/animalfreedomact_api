@@ -39,28 +39,31 @@ const localLogin = new LocalStrategy(localOptions, (email, password, done) => {
 
 // Setup options for JwtStrategy
 const jwtOptions = {
-  jwtFromRequest: ExtractJwt.fromHeader('authorization'),
+  jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
   secretOrKey: process.env.JWT_SECRET
 };
 
 // Create JWT strategy
 const jwtLogin = new JwtStrategy(jwtOptions, (payload, done) => {
+  if (payload.iss !== process.env.JWT_ISS) {
+    const error = new Error('Unauthorized token.');
+    error.status = 401;
+    return done(error);
+  }
 
-  console.log('Yo dawg!')
-  // User.findById(payload.sub, (err, user) => {
-  //   if (err) {
-  //     const error = new Error(err);
-  //     error.status = 401;
-  //     return done(error)
-  //   }
-  //
-  //   if (user) {
-  //     done(null, user);
-  //   } else {
-  //     done(null, false);
-  //   }
-  // });
-})
+  User.findOneByEmail(payload.email)
+    .then(user => {
+      if (!user) {
+        const error = new Error('Unauthorized: email not found.');
+        error.status = 401;
+        throw error;
+      }
+      done(null, user);
+    })
+    .catch(err => {
+      return done(err);
+    });
+});
 
 // Tell passport to use this strategy
 passport.use(jwtLogin);
