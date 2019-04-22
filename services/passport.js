@@ -35,17 +35,6 @@ const localLogin = new LocalStrategy(localOptions, (email, password, done) => {
     .catch(err => {
       return done(err);
     });
-
-  // User.findOne({ email: email }, (err, user) => {
-  //   if (err) return done(err);
-  //   if (!user) return done(null, false);
-  //
-  //   user.comparePassword(password, (err, isMatch) => {
-  //     if (err) return done(err);
-  //     if (!isMatch) return done(null, false);
-  //     return done(null, user);
-  //   });
-  // });
 });
 
 // Setup options for JwtStrategy
@@ -56,15 +45,21 @@ const jwtOptions = {
 
 // Create JWT strategy
 const jwtLogin = new JwtStrategy(jwtOptions, (payload, done) => {
-  User.findById(payload.sub, (err, user) => {
-    if (err) return done(err, false);
 
-    if (user) {
-      done(null, user);
-    } else {
-      done(null, false);
-    }
-  });
+  console.log('Yo dawg!')
+  // User.findById(payload.sub, (err, user) => {
+  //   if (err) {
+  //     const error = new Error(err);
+  //     error.status = 401;
+  //     return done(error)
+  //   }
+  //
+  //   if (user) {
+  //     done(null, user);
+  //   } else {
+  //     done(null, false);
+  //   }
+  // });
 })
 
 // Tell passport to use this strategy

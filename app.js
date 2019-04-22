@@ -26,9 +26,9 @@ app.use(function(req, res, next) {
 // error handler
 app.use(function(err, req, res, next) {
   // send the error response
-  // res.status(err.status || 500);
+  res.status(err.status || 500);
   res.json({error: {
-      status: err.status,
+      status: err.status || 500,
       message: err.message
     }});
 });

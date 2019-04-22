@@ -32,6 +32,16 @@ class User extends Model {
     return user;
   }
 
+  static async save(email, password) {
+    const user = await this.query()
+      .insert({
+        email: email,
+        password: password
+      });
+
+    return user;
+  }
+
   static async comparePassword(candidatePassword, hash, callback) {
     bcrypt.compare(candidatePassword, hash, (err, isMatch) => {
       if (err) return callback(err);
