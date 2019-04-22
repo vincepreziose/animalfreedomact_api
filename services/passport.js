@@ -7,36 +7,63 @@ const LocalStrategy = require('passport-local');
 // Create Local Strategy
 const localOptions = { usernameField: 'email' };
 const localLogin = new LocalStrategy(localOptions, (email, password, done) => {
-  User.findOne({ email: email }, (err, user) => {
-    if (err) return done(err);
-    if (!user) return done(null, false);
 
-    user.comparePassword(password, (err, isMatch) => {
-      if (err) return done(err);
-      if (!isMatch) return done(null, false);
-      return done(null, user);
+  User.findOneByEmail(email)
+    .then(user => {
+      if (!user) {
+        const error = new Error('Unauthorized: email not found.');
+        error.status = 401;
+        throw error;
+      }
+      return user;
+    })
+    .then(user => {
+      User.comparePassword(password, user.password, (err, isMatch) => {
+        if (err) {
+          const error = new Error(err);
+          error.status = 400;
+          return done(error)
+        }
+        if (!isMatch) {
+          const error = new Error('Unauthorized: password does not match.');
+          error.status = 401;
+          return done(error);
+        }
+        return done(null, user);
+      })
+    })
+    .catch(err => {
+      return done(err);
     });
-  });
 });
 
 // Setup options for JwtStrategy
 const jwtOptions = {
-  jwtFromRequest: ExtractJwt.fromHeader('authorization'),
+  jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
   secretOrKey: process.env.JWT_SECRET
 };
 
 // Create JWT strategy
 const jwtLogin = new JwtStrategy(jwtOptions, (payload, done) => {
-  User.findById(payload.sub, (err, user) => {
-    if (err) return done(err, false);
+  if (payload.iss !== process.env.JWT_ISS) {
+    const error = new Error('Unauthorized token.');
+    error.status = 401;
+    return done(error);
+  }
 
-    if (user) {
+  User.findOneByEmail(payload.email)
+    .then(user => {
+      if (!user) {
+        const error = new Error('Unauthorized: email not found.');
+        error.status = 401;
+        throw error;
+      }
       done(null, user);
-    } else {
-      done(null, false);
-    }
-  });
-})
+    })
+    .catch(err => {
+      return done(err);
+    });
+});
 
 // Tell passport to use this strategy
 passport.use(jwtLogin);
