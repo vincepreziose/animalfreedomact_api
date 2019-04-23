@@ -1,5 +1,6 @@
 const express = require('express');
 const Lab = require('../models/lab');
+const LabMapMarker = require('../models/labMapMarker');
 
 const getLabsFull = async (req, res, next) => {
   try {
@@ -12,6 +13,18 @@ const getLabsFull = async (req, res, next) => {
   }
 }
 
+const getMapMarkers = async (req, res, next) => {
+  try {
+    const labs = await LabMapMarker.getMapMarkers();
+
+    res.status(200).send(labs);
+
+  } catch (e) {
+    next(e);
+  }
+}
+
 module.exports = {
-  getLabsFull
+  getLabsFull,
+  getMapMarkers
 }

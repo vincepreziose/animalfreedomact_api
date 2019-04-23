@@ -1,6 +1,7 @@
 'use strict';
 
 const { Model } = require('objection');
+const LabMapMarker = require('./labMapMarker');
 
 class Lab extends Model {
   // Table name is the only required property.
@@ -27,16 +28,24 @@ class Lab extends Model {
     };
   }
 
+  static get relationMappings() {
+    return {
+      mapMarkers: {
+        relation: Model.HasOneRelation,
+        modelClass: `${__dirname}/labMapMarker`,
+        join: {
+          from: 'labs.id',
+          to: 'labs_map_marker.lab_id'
+        }
+      }
+    }
+  }
+
   static async getLabsFull() {
     const labsFull = await this.query()
       .alias('l')
-      .select(
-        'l.id', 'l.name', 'l.address1', 'l.address2', 'l.city',
-        'l.certificateNum', 'mm.lat', 'mm.lng', 'rd.a', 'rd.b', 'rd.c',
-        'rd.e', 'rd.notes'
-      )
-      .join('labs_map_marker as mm', 'mm.lab_id', 'l.id')
-      .join('labs_report_data as rd', 'rd.lab_id', 'l.id');
+      .select('l.id', 'l.name', 'l.address1', 'l.address2', 'l.city', 'l.certificateNum')
+      .eager('mapMarkers(getMapMarkersEager)');
 
     return labsFull;
   }
