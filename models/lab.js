@@ -30,7 +30,7 @@ class Lab extends Model {
 
   static get relationMappings() {
     return {
-      mapMarkers: {
+      mapMarker: {
         relation: Model.HasOneRelation,
         modelClass: `${__dirname}/labMapMarker`,
         join: {
@@ -53,7 +53,7 @@ class Lab extends Model {
     const labsFull = await this.query()
       .alias('l')
       .select('l.id', 'l.name', 'l.address1', 'l.address2', 'l.city', 'l.certificateNum')
-      .eager('[mapMarkers(getMapMarkersEager), reportData(getReportDataEager)]');
+      .eager('[mapMarker(getMapMarkersEager), reportData(getReportDataEager)]');
 
     return labsFull;
   }
