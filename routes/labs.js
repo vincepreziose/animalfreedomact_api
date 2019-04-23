@@ -5,6 +5,6 @@ const labCtrl = require('../controllers/labCtrl');
 const passportService = require('../services/passport');
 const requireAuth = passport.authenticate('jwt', { session: false });
 
-router.get('/', requireAuth, labCtrl.getLabs);
+router.get('/', requireAuth, labCtrl.getLabsFull);
 
 module.exports = router;

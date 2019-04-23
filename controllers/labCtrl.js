@@ -1,15 +1,17 @@
 const express = require('express');
 const Lab = require('../models/lab');
 
-const getLabs = async (req, res, next) => {
+const getLabsFull = async (req, res, next) => {
   try {
-    const labs = await Lab.query();
-    res.status(200).json({labs: labs});
+    const labs = await Lab.getLabsFull();
+
+    res.status(200).send(labs);
+
   } catch (e) {
     next(e);
   }
 }
 
 module.exports = {
-  getLabs
+  getLabsFull
 }

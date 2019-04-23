@@ -26,6 +26,20 @@ class Lab extends Model {
       }
     };
   }
+
+  static async getLabsFull() {
+    const labsFull = await this.query()
+      .alias('l')
+      .select(
+        'l.id', 'l.name', 'l.address1', 'l.address2', 'l.city',
+        'l.certificateNum', 'mm.lat', 'mm.lng', 'rd.a', 'rd.b', 'rd.c',
+        'rd.e', 'rd.notes'
+      )
+      .join('labs_map_marker as mm', 'mm.lab_id', 'l.id')
+      .join('labs_report_data as rd', 'rd.lab_id', 'l.id');
+
+    return labsFull;
+  }
 }
 
 module.exports = Lab;
