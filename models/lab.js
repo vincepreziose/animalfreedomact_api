@@ -37,6 +37,14 @@ class Lab extends Model {
           from: 'labs.id',
           to: 'labs_map_marker.lab_id'
         }
+      },
+      reportData: {
+        relation: Model.HasManyRelation,
+        modelClass: `${__dirname}/labReportData`,
+        join: {
+          from: 'labs.id',
+          to: 'labs_report_data.lab_id'
+        }
       }
     }
   }
@@ -45,7 +53,7 @@ class Lab extends Model {
     const labsFull = await this.query()
       .alias('l')
       .select('l.id', 'l.name', 'l.address1', 'l.address2', 'l.city', 'l.certificateNum')
-      .eager('mapMarkers(getMapMarkersEager)');
+      .eager('[mapMarkers(getMapMarkersEager), reportData(getReportDataEager)]');
 
     return labsFull;
   }
